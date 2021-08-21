@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Site",
-    "currentPage": "clickerdryng dryng pum.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise5",
       "title": "Mobirise 5",
@@ -46,8 +46,8 @@
     "versionPublish": "5.4.1",
     "imageResize": false,
     "screenshot": "screenshot.png",
-    "favicon": false,
-    "mbrsiteDomain": "vio3f9irpv",
+    "favicon": "@PROJECT_PATH@/assets/images/jajko-688cda13e203b23850b3998237-removebg-preview.png",
+    "mbrsiteDomain": "bgke6yusnc",
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
     "sitemapSwitcherAuto": false,
@@ -56,7 +56,7 @@
     "gdpr": false
   },
   "pages": {
-    "clickerdryng dryng pum.html": {
+    "index.html": {
       "settings": {
         "main": true,
         "title": "TwojaStaraClicker.exe",
